@@ -1,0 +1,506 @@
+[
+  {
+    "Language": 0,
+    "Key": 1,
+    "Value": "Enhanced Damage : {0}",
+    "CommonName": "Damage"
+  },
+  {
+    "Language": 0,
+    "Key": 2,
+    "Value": "% to Damage : {0}%",
+    "CommonName": "Damage %"
+  },
+  {
+    "Language": 0,
+    "Key": 3,
+    "Value": "Minor Bleeding {0}%",
+    "CommonName": "Minor Bleeding"
+  },
+  {
+    "Language": 0,
+    "Key": 4,
+    "Value": "Open Wound : {0}%",
+    "CommonName": "Open Wound"
+  },
+  {
+    "Language": 0,
+    "Key": 5,
+    "Value": "Heavy Bleeding : {0}%",
+    "CommonName": "Heavy Bleeding"
+  },
+  {
+    "Language": 0,
+    "Key": 6,
+    "Value": "Stun : {0}%",
+    "CommonName": "Stun"
+  },
+  {
+    "Language": 0,
+    "Key": 7,
+    "Value": "Freeze : {0}%",
+    "CommonName": "Freeze"
+  },
+  {
+    "Language": 0,
+    "Key": 8,
+    "Value": "Stun Badly : {0}%",
+    "CommonName": "Stun Badly"
+  },
+  {
+    "Language": 0,
+    "Key": 9,
+    "Value": "Increased Damage to Plant : {0}%",
+    "CommonName": "% Plant"
+  },
+  {
+    "Language": 0,
+    "Key": 10,
+    "Value": "Increased Damage to Animal : {0}%",
+    "CommonName": "% Animal"
+  },
+  {
+    "Language": 0,
+    "Key": 11,
+    "Value": "Increased damage to monsters : {0}%",
+    "CommonName": "% Monster"
+  },
+  {
+    "Language": 0,
+    "Key": 12,
+    "Value": "Increased Damage to Undead : {0}%",
+    "CommonName": "% Undead"
+  },
+  {
+    "Language": 0,
+    "Key": 13,
+    "Value": "Increased Damage to Lower Society Monsters : {0}%",
+    "CommonName": "% Low Monster"
+  },
+  {
+    "Language": 0,
+    "Key": 14,
+    "Value": "Increases damage to map bosses : {0}%",
+    "CommonName": "% Boss"
+  },
+  {
+    "Language": 0,
+    "Key": 15,
+    "Value": "Increased Chance of Critical Hit : {0}%",
+    "CommonName": "% Crit Chance"
+  },
+  {
+    "Language": 0,
+    "Key": 16,
+    "Value": "Increased Critical Damage : {0}%",
+    "CommonName": "% Crit Damage"
+  },
+  {
+    "Language": 0,
+    "Key": 17,
+    "Value": "Undisturbed When Casting Spells",
+    "CommonName": "Undisturbed"
+  },
+  {
+    "Language": 0,
+    "Key": 18,
+    "Value": "Increased Fire Property : {0}",
+    "CommonName": "Fire Property"
+  },
+  {
+    "Language": 0,
+    "Key": 19,
+    "Value": "Increased Water Property : {0}",
+    "CommonName": "Water Property"
+  },
+  {
+    "Language": 0,
+    "Key": 20,
+    "Value": "Increased Light Property : {0}",
+    "CommonName": "Light Property"
+  },
+  {
+    "Language": 0,
+    "Key": 21,
+    "Value": "Increased Shadow Energy : {0}",
+    "CommonName": "Shadow Property"
+  },
+  {
+    "Language": 0,
+    "Key": 22,
+    "Value": "Increased Element Properties : {0}",
+    "CommonName": "Elem Properties"
+  },
+  {
+    "Language": 0,
+    "Key": 23,
+    "Value": "Reduced MP Consumption : {0}%",
+    "CommonName": "Mp Consumption"
+  },
+  {
+    "Language": 0,
+    "Key": 24,
+    "Value": "HP Recovery per Kill : {0}",
+    "CommonName": "Hp per Kill"
+  },
+  {
+    "Language": 0,
+    "Key": 25,
+    "Value": "MP Recovery per Kill : {0}",
+    "CommonName": "Hp per Kill"
+  },
+  {
+    "Language": 0,
+    "Key": 26,
+    "Value": "Increased SL Damage Stat : {0}%",
+    "CommonName": "SL Damage"
+  },
+  {
+    "Language": 0,
+    "Key": 27,
+    "Value": "Increased SL Defense Stat : {0}",
+    "CommonName": "SL Defense"
+  },
+  {
+    "Language": 0,
+    "Key": 28,
+    "Value": "Increased SL Property Stat : {0}",
+    "CommonName": "SL Property"
+  },
+  {
+    "Language": 0,
+    "Key": 29,
+    "Value": "Increased SL Energy Stat : {0}",
+    "CommonName": "SL Hp/Mp"
+  },
+  {
+    "Language": 0,
+    "Key": 30,
+    "Value": "Increased Overall SL Stat : {0}",
+    "CommonName": "SL G"
+  },
+  {
+    "Language": 0,
+    "Key": 31,
+    "Value": "Gain More Gold : {0}%",
+    "CommonName": "% Gold"
+  },
+  {
+    "Language": 0,
+    "Key": 32,
+    "Value": "Increased combat EXP : {0}%",
+    "CommonName": "% Xp"
+  },
+  {
+    "Language": 0,
+    "Key": 33,
+    "Value": "Gain More CXP : {0}%",
+    "CommonName": "% Xp Job"
+  },
+  {
+    "Language": 0,
+    "Key": 34,
+    "Value": "% to Damage in PvP : {0}%",
+    "CommonName": "% Damage PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 35,
+    "Value": "Reduces opponent's defence power in PvP by : {0}%",
+    "CommonName": "% reduce Defence PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 36,
+    "Value": "Reduces opponent's Fire resistance in PvP : {0}%",
+    "CommonName": "% reduce Fire res PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 37,
+    "Value": "Reduces opponent's Water resistance in PvP : {0}%",
+    "CommonName": "% reduce Water res PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 38,
+    "Value": "Reduces opponent's Light resistance in PvP : {0}%",
+    "CommonName": "% reduce Light res PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 39,
+    "Value": "Reduces opponent's Shadow resistance in PvP : {0}%",
+    "CommonName": "% reduce Shadow res PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 40,
+    "Value": "Reduce Opponent's All Resistance in PVP : {0}%",
+    "CommonName": "% reduce All Elem res PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 42,
+    "Value": "% to Damage at 15% in PVP : {0}%",
+    "CommonName": "proba PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 43,
+    "Value": "Drain Opponent's Mana in PVP : {0}",
+    "CommonName": "Drain Mana PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 1,
+    "Value": "Attaque augmentée : {0}",
+    "CommonName": "Attaque"
+  },
+  {
+    "Language": 2,
+    "Key": 2,
+    "Value": "Dégâts relatifs augmentés : {0}%",
+    "CommonName": "Dégâts relatifs"
+  },
+  {
+    "Language": 2,
+    "Key": 3,
+    "Value": "Saignement léger {0}%",
+    "CommonName": "Saignement léger"
+  },
+  {
+    "Language": 2,
+    "Key": 4,
+    "Value": "Saignement : {0}%",
+    "CommonName": "Saignement"
+  },
+  {
+    "Language": 2,
+    "Key": 5,
+    "Value": "Saignement grave : {0}%",
+    "CommonName": "Saignement grave"
+  },
+  {
+    "Language": 2,
+    "Key": 6,
+    "Value": "Syncope : {0}%",
+    "CommonName": "Syncope"
+  },
+  {
+    "Language": 2,
+    "Key": 7,
+    "Value": "Congelé : {0}%",
+    "CommonName": "Congelé"
+  },
+  {
+    "Language": 2,
+    "Key": 8,
+    "Value": "Syncope mortelle : {0}%",
+    "CommonName": "Syncope mortelle"
+  },
+  {
+    "Language": 2,
+    "Key": 9,
+    "Value": "Dégâts augmentés sur les pantes : {0}%",
+    "CommonName": "% Dégâts pantes"
+  },
+  {
+    "Language": 2,
+    "Key": 10,
+    "Value": "Dégâts augmentés sur les animaux : {0}%",
+    "CommonName": "% Dégâts animaux"
+  },
+  {
+    "Language": 2,
+    "Key": 11,
+    "Value": "Dégâts augmentés sur les monstres : {0}%",
+    "CommonName": "% Dégâts monstres"
+  },
+  {
+    "Language": 2,
+    "Key": 12,
+    "Value": "Dégâts augmentés sur les zombies : {0}%",
+    "CommonName": "% Dégâts zombies"
+  },
+  {
+    "Language": 2,
+    "Key": 13,
+    "Value": "Dégâts augmentés sur les petits animaux : {0}%",
+    "CommonName": "% Dégâts petits animaux"
+  },
+  {
+    "Language": 2,
+    "Key": 14,
+    "Value": "Les dégâts sur les boss de carte augmentent : {0}%",
+    "CommonName": "% Dégâts Boss"
+  },
+  {
+    "Language": 2,
+    "Key": 15,
+    "Value": "La probabilité d'un coup critique augmente : {0}%",
+    "CommonName": "Proba CC"
+  },
+  {
+    "Language": 2,
+    "Key": 16,
+    "Value": "Augmente les dégats critiques : {0}%",
+    "CommonName": "Dégâts CC"
+  },
+  {
+    "Language": 2,
+    "Key": 17,
+    "Value": "L'incantation ne peut être interrompue",
+    "CommonName": "Incantation ne peut être interrompue"
+  },
+  {
+    "Language": 2,
+    "Key": 18,
+    "Value": "Élément Feu renforcé : {0}",
+    "CommonName": "Elem Feu"
+  },
+  {
+    "Language": 2,
+    "Key": 19,
+    "Value": "Élément Eau renforcé : {0}",
+    "CommonName": "Elem Eau"
+  },
+  {
+    "Language": 2,
+    "Key": 20,
+    "Value": "Élément Lumière renforcé : {0}",
+    "CommonName": "Elem Lumière"
+  },
+  {
+    "Language": 2,
+    "Key": 21,
+    "Value": "Élément Obscurité renforcé : {0}",
+    "CommonName": "Elem Obscurité"
+  },
+  {
+    "Language": 2,
+    "Key": 22,
+    "Value": "Augmente tous les éléments : {0}",
+    "CommonName": "Elem Tous"
+  },
+  {
+    "Language": 2,
+    "Key": 23,
+    "Value": "Consommation MP réduite : {0}%",
+    "CommonName": "Consommation MP"
+  },
+  {
+    "Language": 2,
+    "Key": 24,
+    "Value": "Régénération de HP par victoire : {0}",
+    "CommonName": "HP par Kill"
+  },
+  {
+    "Language": 2,
+    "Key": 25,
+    "Value": "Régénération de MP par victoire : {0}",
+    "CommonName": "MP par Kill"
+  },
+  {
+    "Language": 2,
+    "Key": 26,
+    "Value": "Les statistiques d'attaque (SP) augmentent : {0}%",
+    "CommonName": "SL Attaque"
+  },
+  {
+    "Language": 2,
+    "Key": 27,
+    "Value": "Augmente la défense de la SP de : {0}",
+    "CommonName": "SL Défense"
+  },
+  {
+    "Language": 2,
+    "Key": 28,
+    "Value": "Les points de compétence élémentaires (SP) augmentent de {0}",
+    "CommonName": "SL Elem"
+  },
+  {
+    "Language": 2,
+    "Key": 29,
+    "Value": "Augmente les HP/MP de la SP de : {0}",
+    "CommonName": "SL HP/MP"
+  },
+  {
+    "Language": 2,
+    "Key": 30,
+    "Value": "Augmentation générale des points de la SP de : {0}",
+    "CommonName": "SL G"
+  },
+  {
+    "Language": 2,
+    "Key": 31,
+    "Value": "Gagne plus d'or : {0}%",
+    "CommonName": "% Or"
+  },
+  {
+    "Language": 2,
+    "Key": 32,
+    "Value": "Gain en EXP augmentés : {0}%",
+    "CommonName": "% XP"
+  },
+  {
+    "Language": 2,
+    "Key": 33,
+    "Value": "Gain en EXP métier augmenté : {0}%",
+    "CommonName": "% XP Metier"
+  },
+  {
+    "Language": 2,
+    "Key": 34,
+    "Value": "Les dégats en PvP augmentent : {0}%",
+    "CommonName": "% Dégats PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 35,
+    "Value": "La force de défense de l'adversaire en PVP diminue de : {0}%",
+    "CommonName": "% Péné Def PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 36,
+    "Value": "La résistance au Feu de l'adversaire diminue en PvP : {0}%",
+    "CommonName": "% Péné Feu PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 37,
+    "Value": "La résistance à l'Eau de l'adversaire diminue en PvP : {0}%",
+    "CommonName": "% Péné Eau PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 38,
+    "Value": "La résistance à la Lumière de l'adversaire diminue en PvP : {0}%",
+    "CommonName": "% Péné Lumière PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 39,
+    "Value": "La résistance à l'Obscurité de l'adversaire diminue en PvP : {0}%",
+    "CommonName": "% Péné Obscurité PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 40,
+    "Value": "Les résistances de l'adversaire en PvP diminuent toutes : {0}%",
+    "CommonName": "% Péné ALL PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 42,
+    "Value": "Avec une probabilité de 15%, les dégâts en PvP augmentent : {0}%",
+    "CommonName": "Proba PVP (R2)"
+  },
+  {
+    "Language": 2,
+    "Key": 43,
+    "Value": "Absorption des MP de l'adversaire en PVP : {0}",
+    "CommonName": "Absorption des MP"
+  }
+]

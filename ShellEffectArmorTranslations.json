@@ -1,0 +1,459 @@
+[
+  {
+    "Language": 0,
+    "Key": 1,
+    "Value": "Enhanced Melee Defense : {0}",
+    "CommonName": "Melee Defense"
+  },
+  {
+    "Language": 0,
+    "Key": 2,
+    "Value": "Enhanced Long Range Defense : {0}",
+    "CommonName": "Range Defense"
+  },
+  {
+    "Language": 0,
+    "Key": 3,
+    "Value": "Enhanced Magic Defense : {0}%",
+    "CommonName": "Magic Defense"
+  },
+  {
+    "Language": 0,
+    "Key": 4,
+    "Value": "% to Overall Defense {0}%",
+    "CommonName": "% Defense"
+  },
+  {
+    "Language": 0,
+    "Key": 5,
+    "Value": "Reduced Chance of Small Open Wounds : {0}%",
+    "CommonName": "Reduce % Small Wounds"
+  },
+  {
+    "Language": 0,
+    "Key": 6,
+    "Value": "Reduced Chance of Open Wound and Small Open Wound : {0}%",
+    "CommonName": "Reduce % Small Wounds and Wounds"
+  },
+  {
+    "Language": 0,
+    "Key": 7,
+    "Value": "Reduced Chance of All Open Wounds : {0}%",
+    "CommonName": "Reduce % all Wounds"
+  },
+  {
+    "Language": 0,
+    "Key": 8,
+    "Value": "Reduces the chance of a Blackout : {0}%",
+    "CommonName": "Reduce % Blackout"
+  },
+  {
+    "Language": 0,
+    "Key": 9,
+    "Value": "Reduced Chance of All Stun : {0}%",
+    "CommonName": "Reduce % All Stun"
+  },
+  {
+    "Language": 0,
+    "Key": 10,
+    "Value": "Reduced Chance of Deadman's Hand : {0}%",
+    "CommonName": "Reduce % Deadman's Hand"
+  },
+  {
+    "Language": 0,
+    "Key": 11,
+    "Value": "Reduced Chance of Being Frozen : {0}%",
+    "CommonName": "Reduce % Frozen"
+  },
+  {
+    "Language": 0,
+    "Key": 12,
+    "Value": "Reduced Chance of Being Blinded : {0}%",
+    "CommonName": "Reduce % Blind"
+  },
+  {
+    "Language": 0,
+    "Key": 13,
+    "Value": "Reduced Chance of Spasm : {0}%",
+    "CommonName": "Reduce % Spasm"
+  },
+  {
+    "Language": 0,
+    "Key": 14,
+    "Value": "Reduced Chance of Weak Armor : {0}%",
+    "CommonName": "Reduce % Weak Armor"
+  },
+  {
+    "Language": 0,
+    "Key": 15,
+    "Value": "Reduced Chance of Shock : {0}%",
+    "CommonName": "Reduce % Shock"
+  },
+  {
+    "Language": 0,
+    "Key": 16,
+    "Value": "Reduces chance of Paralysis Poison : {0}%",
+    "CommonName": "Reduce % Paralysis Poison"
+  },
+  {
+    "Language": 0,
+    "Key": 17,
+    "Value": "Reduces the chance of all negative effects : {0}%",
+    "CommonName": "Reduce % all negative effects"
+  },
+  {
+    "Language": 0,
+    "Key": 18,
+    "Value": "Increased HP Recovery Rate While Resting : {0}%",
+    "CommonName": "Hp Recovery (resting)"
+  },
+  {
+    "Language": 0,
+    "Key": 19,
+    "Value": "Increased Natural HP Recovery Rate : {0}%",
+    "CommonName": "Hp Recovery (natural)"
+  },
+  {
+    "Language": 0,
+    "Key": 20,
+    "Value": "Increased Mp Recovery Rate While Resting : {0}%",
+    "CommonName": "Mp Recovery (resting)"
+  },
+  {
+    "Language": 0,
+    "Key": 21,
+    "Value": "Increased Natural MP Recovery Rate : {0}%",
+    "CommonName": "Mp Recovery (natural)"
+  },
+  {
+    "Language": 0,
+    "Key": 22,
+    "Value": "HP recovery while defending : {0}%",
+    "CommonName": "% Hp while defending"
+  },
+  {
+    "Language": 0,
+    "Key": 23,
+    "Value": "Reduces chance of receiving a critical hit  : {0}%",
+    "CommonName": "Reduce % receive crit"
+  },
+  {
+    "Language": 0,
+    "Key": 24,
+    "Value": "Increases fire resistance : {0}%",
+    "CommonName": "Fire res"
+  },
+  {
+    "Language": 0,
+    "Key": 25,
+    "Value": "Increases water resistance : {0}%",
+    "CommonName": "Water res"
+  },
+  {
+    "Language": 0,
+    "Key": 26,
+    "Value": "Increases light resistance : {0}%",
+    "CommonName": "Light res"
+  },
+  {
+    "Language": 0,
+    "Key": 27,
+    "Value": "Increases shadow resistance : {0}%",
+    "CommonName": "Shadow res"
+  },
+  {
+    "Language": 0,
+    "Key": 28,
+    "Value": "Increases all resistances : {0}%",
+    "CommonName": "All Elem res"
+  },
+  {
+    "Language": 0,
+    "Key": 29,
+    "Value": "Decreased Pride Reduction : {0}%",
+    "CommonName": "Pride reduction"
+  },
+  {
+    "Language": 0,
+    "Key": 30,
+    "Value": "Decreased Consumption of Production Point : {0}%",
+    "CommonName": "Consumption Production Point"
+  },
+  {
+    "Language": 0,
+    "Key": 31,
+    "Value": "Increased Production Chance : {0}%",
+    "CommonName": "Production Chance"
+  },
+  {
+    "Language": 0,
+    "Key": 32,
+    "Value": "Increased Item Recovery : {0}%",
+    "CommonName": "Item Recovery"
+  },
+  {
+    "Language": 0,
+    "Key": 33,
+    "Value": "% to Overall Defense in PVP : {0}%",
+    "CommonName": "% Defense in PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 34,
+    "Value": "Dodge Melee Attacks in PVP : {0}%",
+    "CommonName": "% Dodge Melee PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 35,
+    "Value": "Dodge Long Range Attacks in PVP : {0}%",
+    "CommonName": "% Dodge Range PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 36,
+    "Value": "Ignore Magic Damage in PVP : {0}%",
+    "CommonName": "% Dodge Magic PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 37,
+    "Value": "Dodge All Attacks in PVP : {0}%",
+    "CommonName": "% Dodge ALL PVP"
+  },
+  {
+    "Language": 0,
+    "Key": 38,
+    "Value": "Protect Mana in PvP",
+    "CommonName": "Protect Mana PVP"
+  },
+
+  {
+    "Language": 2,
+    "Key": 1,
+    "Value": "Augmente la défense en combat rapproché : {0}",
+    "CommonName": "Def combat rapproché"
+  },
+  {
+    "Language": 2,
+    "Key": 2,
+    "Value": "Augmente la défense des attaques à distance : {0}",
+    "CommonName": "Def attaques à distance"
+  },
+  {
+    "Language": 2,
+    "Key": 3,
+    "Value": "Augmente la défense des attaques magiques : {0}%",
+    "CommonName": "Def attaques magiques"
+  },
+  {
+    "Language": 2,
+    "Key": 4,
+    "Value": "Toutes les défenses augmentent de {0}%",
+    "CommonName": "Def ALL"
+  },
+  {
+    "Language": 2,
+    "Key": 5,
+    "Value": "La probabilité de saignement léger diminue : {0}%",
+    "CommonName": "Diminue % de recevoir saignement léger"
+  },
+  {
+    "Language": 2,
+    "Key": 6,
+    "Value": "La probabilité de saignement et de saignement léger diminue : {0}%",
+    "CommonName": "Diminue % de recevoir saignement et saignement léger"
+  },
+  {
+    "Language": 2,
+    "Key": 7,
+    "Value": "La probabilité de tout type de saignement diminue : {0}%",
+    "CommonName": "Diminue % de recevoir tout type de  saignement"
+  },
+  {
+    "Language": 2,
+    "Key": 8,
+    "Value": "La probabilité d'une syncope diminue : {0}%",
+    "CommonName": "Diminue % de recevoir une Syncope"
+  },
+  {
+    "Language": 2,
+    "Key": 9,
+    "Value": "La probabilité de tout type de syncope diminue : {0}%",
+    "CommonName": "Diminue % de recevoir tout type de Syncope"
+  },
+  {
+    "Language": 2,
+    "Key": 10,
+    "Value": "La probabilité d'une Main de la mort diminue : {0}%",
+    "CommonName": "Diminue % de recevoir Main de la mort"
+  },
+  {
+    "Language": 2,
+    "Key": 11,
+    "Value": "Chance de gel réduite : {0}%",
+    "CommonName": "Diminue % de recevoir Gel"
+  },
+  {
+    "Language": 2,
+    "Key": 12,
+    "Value": "Chance d'aveuglement réduite : {0}%",
+    "CommonName": "Diminue % de recevoir Aveugle"
+  },
+  {
+    "Language": 2,
+    "Key": 13,
+    "Value": "Chance d'entrave réduite : {0}%",
+    "CommonName": "Diminue % de recevoir des entraves"
+  },
+  {
+    "Language": 2,
+    "Key": 14,
+    "Value": "Diminue la chance de perdre des pouvoirs de défense : {0}%",
+    "CommonName": "Diminue % de perdre des pouvoirs de défense"
+  },
+  {
+    "Language": 2,
+    "Key": 15,
+    "Value": "La chance d'un choc diminue : {0}%",
+    "CommonName": "Diminue % de recevoir un choc"
+  },
+  {
+    "Language": 2,
+    "Key": 16,
+    "Value": "Diminue la chance de paralysie dù au poison : {0}%",
+    "CommonName": "Diminue % d'être paralysé dù au poison"
+  },
+  {
+    "Language": 2,
+    "Key": 17,
+    "Value": "Moins de chance de subir un effet négatif : {0}%",
+    "CommonName": "Diminue % de subir un effet négatif"
+  },
+  {
+    "Language": 2,
+    "Key": 18,
+    "Value": "La cadence de récupération des HP au repos augmente : {0}%",
+    "CommonName": "Regen HP repos"
+  },
+  {
+    "Language": 2,
+    "Key": 19,
+    "Value": "La cadence de récupération des HP normale augmente : {0}%",
+    "CommonName": "Regen HP naturelle"
+  },
+  {
+    "Language": 2,
+    "Key": 20,
+    "Value": "La vitesse de récupération des MP au repos augmente : {0}%",
+    "CommonName": "Regen MP repos"
+  },
+  {
+    "Language": 2,
+    "Key": 21,
+    "Value": "La vitesse de récupération des MP normale augmente : {0}%",
+    "CommonName": "Regen MP naturelle"
+  },
+  {
+    "Language": 2,
+    "Key": 22,
+    "Value": "Récupération des HP pendant la défense : {0}%",
+    "CommonName": "Récupération des HP pendant la défense"
+  },
+  {
+    "Language": 2,
+    "Key": 23,
+    "Value": "Diminue la chance d'être la cible d'attaque critique : {0}%",
+    "CommonName": "Diminue la chance d'être la cible d'attaque critique"
+  },
+  {
+    "Language": 2,
+    "Key": 24,
+    "Value": "Augmente la résistance au feu : {0}%",
+    "CommonName": "Res Feu"
+  },
+  {
+    "Language": 2,
+    "Key": 25,
+    "Value": "Augmente la résistance à l'eau : {0}%",
+    "CommonName": "Res Eau"
+  },
+  {
+    "Language": 2,
+    "Key": 26,
+    "Value": "Augmente la résistance à la lumière : {0}%",
+    "CommonName": "Res Lumière"
+  },
+  {
+    "Language": 2,
+    "Key": 27,
+    "Value": "Augmente la résistance à l'obscurité : {0}%",
+    "CommonName": "Res Obscurité"
+  },
+  {
+    "Language": 2,
+    "Key": 28,
+    "Value": "Augmente toutes les résistances : {0}%",
+    "CommonName": "Res ALL"
+  },
+  {
+    "Language": 2,
+    "Key": 29,
+    "Value": "La réduction de la dignité diminue : {0}%",
+    "CommonName": "Reduction de la perte de Dignité"
+  },
+  {
+    "Language": 2,
+    "Key": 30,
+    "Value": "La consommation des points de production diminue : {0}%",
+    "CommonName": "Point de production"
+  },
+  {
+    "Language": 2,
+    "Key": 31,
+    "Value": "La probabilité de production augmente : {0}%",
+    "CommonName": "Probabilité de production"
+  },
+  {
+    "Language": 2,
+    "Key": 32,
+    "Value": "La nourriture guérit mieux : {0}%",
+    "CommonName": "La nourriture guérit mieux"
+  },
+  {
+    "Language": 2,
+    "Key": 33,
+    "Value": "Les statistiques de défense en PvP augmentent toutes : {0}%",
+    "CommonName": "% Defense PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 34,
+    "Value": "Esquive des attaques rapporchées en PvP : {0}%",
+    "CommonName": "% Esquive attaques rapporchées PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 35,
+    "Value": "Esquive des attaques à distance en PvP : {0}%",
+    "CommonName": "% Esquive attaques à distance PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 36,
+    "Value": "Dégâts magiques ignorés en PvP : {0}%",
+    "CommonName": "% Esquive attaques magiques PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 37,
+    "Value": "Esquive de toutes les attaques en PvP : {0}%",
+    "CommonName": "% Esquive attaques ALL PVP"
+  },
+  {
+    "Language": 2,
+    "Key": 38,
+    "Value": "Protège tes MP en PvP",
+    "CommonName": "Protège tes MP en PvP"
+  }
+]

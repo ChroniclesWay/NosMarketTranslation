@@ -152,7 +152,7 @@
   {
     "Language": 0,
     "Key": 26,
-    "Value": "Increased SL Damage Stat : {0}%",
+    "Value": "Increased SL Damage Stat : {0}",
     "CommonName": "SL Damage"
   },
   {
@@ -404,7 +404,7 @@
   {
     "Language": 2,
     "Key": 26,
-    "Value": "Les statistiques d'attaque (SP) augmentent : {0}%",
+    "Value": "Les statistiques d'attaque (SP) augmentent : {0}",
     "CommonName": "SL Attaque"
   },
   {
